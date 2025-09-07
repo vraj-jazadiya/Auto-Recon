@@ -72,5 +72,5 @@ nmap_scan.txt → Nmap output
 This script is for educational & authorized bug bounty use only.
 Do not use on systems without permission.
 
-Do you want me to also **add logging + resume support** (so if script stops, you can continue from where it left off) in the next upgrade?
+
 
